@@ -1,0 +1,1 @@
+LOAD DATA INPATH '/hw5/hw5data/loyalty_data.txt' INTO TABLE loyalty_program;
